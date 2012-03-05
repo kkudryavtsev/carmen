@@ -1,3 +1,5 @@
+s[edition] fork
+
 = Carmen- A simple collection of geographic names and abbreviations for Ruby
 
 This library will work as a drop in replacement for the official Rails country_select and its various forks. The idea is to provide a single library for all geographic naming concerns, and unify them under a consistent API.
